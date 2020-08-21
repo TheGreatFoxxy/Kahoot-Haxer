@@ -1,2 +1,2 @@
-# MDK-song-picker
-A song picker made by scratch, converted to HTML through forkphorus.github.io
+# Kahoot Haxing Ninja
+A Kahoot hacking thing, without the need for 'Premium' sign-up.
